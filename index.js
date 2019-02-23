@@ -303,8 +303,8 @@ function reveal() {
     w = 255; h = 155;
   }
   
-  var img = document.getElementById('video');
-  img.style.height = '171px';
+//   var img = document.getElementById('video');
+//   img.style.height = '171px';
 
 //   var ifrm = document.createElement("img");
 //         ifrm.setAttribute("src", "img.jpg");
